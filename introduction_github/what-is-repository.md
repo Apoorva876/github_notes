@@ -1,7 +1,7 @@
 # What is GitHub?
 
 
-**Duration: 8 minutes**
+ 
 
 ---
 
