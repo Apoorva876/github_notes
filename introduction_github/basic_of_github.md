@@ -18,25 +18,6 @@ In this module, you'll learn the basics of GitHub and gain a better understandin
 
 ---
 
-## Learning Objectives
-
-In this module, you’ll:
-
-* Identify the fundamental features of GitHub.
-* Learn about repository management.
-* Gain an understanding of the GitHub flow, including:
-
-  * Branches
-  * Commits
-  * Pull requests
-* Explore the collaborative features of GitHub by reviewing:
-
-  * Issues
-  * Discussions
-* Recognize how to manage your GitHub:
-
-  * Notifications
-  * Subscriptions
 
 ---
 
